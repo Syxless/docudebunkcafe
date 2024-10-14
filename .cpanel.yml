@@ -1,3 +1,3 @@
 version: 2
 runtime:
-  node: 16  # ou la version de Node.js que tu utilises
+  node: 18 # ou la version de Node.js que tu utilises
